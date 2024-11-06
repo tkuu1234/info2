@@ -1,0 +1,13 @@
+Flask
+flask-cors
+azure-cognitiveservices-speech
+openai
+python-dotenv
+Pillow
+requests
+azure-cognitiveservices-vision-computervision
+msrest
+pydub
+google-cloud-texttospeech
+azure-storage-blob
+gunicorn
